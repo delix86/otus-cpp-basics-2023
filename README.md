@@ -1,2 +1,3 @@
-# otus-cpp-basics-2023
-OTUS CPP Basic Course (Autumn 2023)
+HW 1
+Make two branches test1 and test2 which differs from main
+Then learn how to see diffenece between branches and commits
